@@ -1,0 +1,46 @@
+h1{
+	font-size: 30px;
+}
+
+h3{
+	font-size: 20px;
+}
+
+.reset_list {
+	margin-left: 0;
+	padding-left: 0;
+	list-style-type: none;
+}
+.margin_top{
+	margin-top: 2em;
+}
+
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
+
+.center {
+	text-align: center;
+}
+
+.subtitle {
+	display: block;
+	font-size: 20px;
+}
+
+.right {
+	text-align: right;
+}
+
+.one_image {
+	padding: 0 1em 0 0;
+	float: left;
+}
+
+
+
+
+
+
+
